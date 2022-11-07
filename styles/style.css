@@ -41,6 +41,7 @@ body * {
   width: fit-content;
   margin: auto;
   padding-top: 52px;
+
 }
 
 header {
@@ -129,7 +130,7 @@ header {
   opacity: 0;
   animation: appear 0.2s forwards;
 }
-
+  
 @keyframes appear {
   0% {
     transform: translateY(-50px);
